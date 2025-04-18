@@ -1,0 +1,15 @@
+# PyTorch and torchvision for YOLOv5 inference.
+torch>=1.7.0
+torchvision
+
+# OpenCV for image capture and processing.
+opencv-python
+
+# pyzed-sl for ZED camera integration.
+pyzed
+
+# Additional packages for file and OS operations.
+numpy
+
+# (Optional) If you use any additional utilities, e.g., dateutil for timestamping.
+python-dateutil
